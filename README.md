@@ -11,3 +11,7 @@
 |POST|/api/matricula|       	add new matricula registry|
 |PUT|/api/matricula/{id}|   	update a matricula registry|
 |DELETE|/api/matricula/{id}| 	delete matricula by id|
+
+
+### Heroku Endpoint
+https://swagger-example-nekitbr.herokuapp.com/api/matricula

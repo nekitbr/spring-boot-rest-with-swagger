@@ -14,4 +14,7 @@
 
 
 ### Heroku Endpoint
-https://swagger-example-nekitbr.herokuapp.com/api/matricula
+https://swagger-example-nekitbr.herokuapp.com/
+
+#### example:
+get on https://swagger-example-nekitbr.herokuapp.com/api/matricula
